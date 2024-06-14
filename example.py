@@ -4,6 +4,11 @@ def git_opeation():
  print("test")
  print("test1")
 git_opeation()
+;,MF'LBFKN3MF
+/'.;LMKNJ LKNM;,'
+FW';LFK JLKNM;L,./?
+W3J FNMW,;'./
 
 
 
+DJLKNM;'.KOBJVHI GUCTIYFGULKJH;K,L./
